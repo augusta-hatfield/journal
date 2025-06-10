@@ -10,4 +10,4 @@ This website has multiple different pages, and each page has its own css file an
 
 Here is a more in-depth video explanation of the Journal website: https://youtu.be/i3RZj3SPyzY
 
-Here is a link to the code:
+Here is a link to the live website: https://augusta-hatfield.github.io/journal/
