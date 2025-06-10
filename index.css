@@ -1,0 +1,85 @@
+
+        body {
+            font-family: Helvetica, sans-serif
+        }
+
+        .red1 {
+            background-color: #8a0e06; width: 100px; height: 75px; font-size: 15px
+        }
+        .red2 {
+            background-color: #b81207; width: 100px; height: 75px; font-size: 15px
+        }
+        .red3 {
+            background-color: #d41508; width: 100px; height: 75px; font-size: 15px
+        }
+        .red4 {
+            background-color: #eb1809; width: 100px; height: 75px; font-size: 15px
+        }
+        .red5 {
+            background-color: #fc3b2d; width: 100px; height: 75px; font-size: 15px
+        }
+        .yellow1 {
+            background-color: #ffe359; width: 100px; height: 75px; font-size: 15px
+        }
+        .yellow2 {
+            background-color: #fcde47; width: 100px; height: 75px; font-size: 15px
+        }
+        .yellow3 {
+            background-color: #ffdd33; width: 100px; height: 75px; font-size: 15px
+        }
+        .yellow4 {
+            background-color: #ffd817; width: 100px; height: 75px; font-size: 15px
+        }
+        .yellow5 {
+            background-color: #f0c907; width: 100px; height: 75px; font-size: 15px
+        }
+        .blue1 {
+            background-color: #0f0082; width: 100px; height: 75px; font-size: 15px
+        }
+        .blue2 {
+            background-color: #1400b0; width: 100px; height: 75px; font-size: 15px
+        }
+        .blue3 {
+            background-color: #2f17eb; width: 100px; height: 75px; font-size: 15px
+        }
+        .blue4 {
+            background-color: #4e38fc; width: 100px; height: 75px; font-size: 15px
+        }
+        .blue5 {
+            background-color: #705eff; width: 100px; height: 75px; font-size: 15px
+        }
+        .green1 {
+            background-color: #7bf55d; width: 100px; height: 75px; font-size: 15px
+        }
+        .green2 {
+            background-color: #5ce33b; width: 100px; height: 75px; font-size: 15px
+        }
+        .green3 {
+            background-color: #44cc23; width: 100px; height: 75px; font-size: 15px
+        }
+        .green4 {
+            background-color: #36ab1a; width: 100px; height: 75px; font-size: 15px
+        }
+        .green5 {
+            background-color: #228709; width: 100px; height: 75px; font-size: 15px
+        }
+
+        #info {
+        display: incline-block;
+        padding: 10px 20px;
+        background-color: black;
+        color: white;
+        text-align: center;
+        text-decoration: none;
+        border-radius: 5px;
+        }
+
+        #elan {
+        display: incline-block;
+        padding: 10px 20px;
+        background-color: black;
+        color: white;
+        text-align: center;
+        text-decoration: none;
+        border-radius: 5px;
+        }
