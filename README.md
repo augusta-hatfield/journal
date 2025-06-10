@@ -8,4 +8,6 @@
 
 This website has multiple different pages, and each page has its own css file and at times javascript file (for example, styling buttons and getting them to function properly). index.html is the homepage, and index.css helps with its style. elan.html is another page, and it has its own corresponding css file as well.
 
-Here is a more in-depth video explanation of the Journal website:
+Here is a more in-depth video explanation of the Journal website: https://youtu.be/i3RZj3SPyzY
+
+Here is a link to the code:
